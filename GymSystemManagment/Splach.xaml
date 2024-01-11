@@ -1,0 +1,18 @@
+﻿<Window x:Class="GymSystemManagment.Splach"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GymSystemManagment"
+        mc:Ignorable="d"
+        Title="SplachScreen" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+         WindowStyle="None"
+        TextElement.FontWeight="Bold"
+        TextElement.FontSize="20"
+>
+    <Grid>
+        <Image Source="C:\Users\chemo\Documents\work\update gym system\GymSystemManagmentDemo\img\splach.jpg" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Text="Loading..." HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,20"/>
+    </Grid>
+</Window>
