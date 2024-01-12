@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [abdelmotalib.chemouri@gmail.com]
+My contact - [abdelmotalib.chemouri@gmail.com]
 
 Project Link: [https://github.com/Motalib01/GymSystemManagmentDemo](https://github.com/Motalib01/GymSystemManagmentDemo)
 
